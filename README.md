@@ -14,11 +14,6 @@ Every node with the ssh class will export its own SSH host key and then collect 
 
 /etc/ssh/ssh_known_hosts
 
-### Setup Requirements **OPTIONAL**
-
-If your module requires anything extra before setting up (pluginsync enabled,
-etc.), mention it here.
-
 ### Beginning with ssh
 
 Add the class below to your init.pp file.
